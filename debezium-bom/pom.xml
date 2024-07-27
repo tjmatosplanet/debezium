@@ -591,7 +591,7 @@
             <dependency>
               <groupId>io.smallrye</groupId>
               <artifactId>smallrye-open-api-core</artifactId>
-              <version>2.1.2</version>
+              <version>3.7.0</version>
             </dependency>
 
             <!-- Debezium artifacts -->

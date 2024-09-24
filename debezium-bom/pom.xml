@@ -44,7 +44,7 @@
         <version.jedis>4.1.1</version.jedis>
 
         <!-- S3 -->
-        <version.s3>2.17.241</version.s3>
+        <version.s3>2.28.7</version.s3>
 
         <!-- Blob Storage -->
         <version.azure.blob>12.21.0</version.azure.blob>

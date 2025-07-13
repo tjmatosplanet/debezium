@@ -47,7 +47,7 @@
         <version.s3>2.17.241</version.s3>
 
         <!-- Blob Storage -->
-        <version.azure.blob>12.21.0</version.azure.blob>
+        <version.azure.blob>12.27.1</version.azure.blob>
 
         <!-- Testing -->
         <version.junit>4.13.1</version.junit>
